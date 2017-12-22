@@ -1,0 +1,12 @@
+{
+  "name": "tests4jshero",
+  "version": "0.9.0",
+  "description": "Tests für JavaScript Hero.",
+  "author": "Towabohu <mischa@soujon-net.de>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.0.1"
+  }
+}
